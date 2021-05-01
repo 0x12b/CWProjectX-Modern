@@ -1,0 +1,16 @@
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\bin\Release\learn_c___in_cs.exe.config
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\bin\Release\learn_c___in_cs.exe
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\bin\Release\learn_c___in_cs.pdb
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\bin\Release\MetroFramework.Design.dll
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\bin\Release\MetroFramework.dll
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\bin\Release\MetroFramework.Fonts.dll
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\bin\Release\System.Numerics.Vectors.xml
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\obj\Release\learn_c++_in_cs.csprojAssemblyReference.cache
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\obj\Release\learn_c___in_cs.MainForm.resources
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\obj\Release\learn_c___in_cs.Properties.Resources.resources
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\obj\Release\learn_c++_in_cs.csproj.GenerateResource.cache
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\obj\Release\learn_c++_in_cs.csproj.CoreCompileInputs.cache
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\obj\Release\learn_c++_in_cs.csproj.CopyComplete
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\obj\Release\learn_c___in_cs.exe
+C:\Users\fofft\OneDrive\Desktop\CWProjectX Modern\TheGeogeo_Trainer\obj\Release\learn_c___in_cs.pdb
