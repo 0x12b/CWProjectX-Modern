@@ -29,11 +29,12 @@ namespace learn_c___in_cs
         Thread freeze2T;
         Thread freeze3T;
 
-        public IntPtr PlayerBase = (IntPtr)0x1070B590;
+        public IntPtr PlayerBase = (IntPtr)0x1094E990;
        // public IntPtr CMDBufferBase = (IntPtr)0x122F1180; cmddbuffer offset unlocated as of 1.11.1
-        public IntPtr XPScaleBase = (IntPtr)0x10733588; //instant ban depuis la version 1.8.0
+        public IntPtr XPScaleBase = (IntPtr)0x10976988; //instant ban depuis la version 1.8.0
         //public IntPtr TimeScaleBase = (IntPtr)0xF283B84;
-        public string currentVersion = "Works in 1.11.2";
+        //CamoBase = 0x10B3FF80; - ¯\_(ツ)_/¯
+        public string currentVersion = "Works in 1.11.3";
 
         public int gamePID = 0;
         public IntPtr hProc;
